@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.mmp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/imgs"
+        android:label="MyQuiz"
+        android:roundIcon="@drawable/imgs"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name="com.example.myquiz.Main29Activity" />
+        <activity android:name="com.example.myquiz.Main28Activity" />
+        <activity android:name="com.example.myquiz.Main27Activity" />
+        <activity android:name="com.example.myquiz.Main26Activity" />
+        <activity android:name="com.example.myquiz.Main25Activity" />
+        <activity android:name="com.example.myquiz.Main24Activity" />
+        <activity android:name="com.example.myquiz.Main23Activity" />
+        <activity android:name="com.example.myquiz.Main22Activity" />
+        <activity android:name="com.example.myquiz.Main21Activity" />
+        <activity android:name="com.example.myquiz.Main20Activity" />
+        <activity android:name="com.example.myquiz.Main19Activity" />
+        <activity android:name="com.example.myquiz.Main18Activity" />
+        <activity android:name="com.example.myquiz.Main17Activity" />
+        <activity android:name="com.example.myquiz.Main16Activity" />
+        <activity android:name="com.example.myquiz.Main15Activity" />
+        <activity android:name="com.example.myquiz.Main14Activity" />
+        <activity android:name="com.example.myquiz.Main13Activity"/>
+        <activity android:name="com.example.myquiz.Main12Activity" />
+        <activity android:name="com.example.myquiz.Main11Activity" />
+        <activity android:name="com.example.myquiz.Main10Activity" />
+        <activity android:name="com.example.myquiz.Main9Activity" />
+        <activity android:name="com.example.myquiz.Main8Activity" />
+        <activity android:name="com.example.myquiz.Main7Activity" />
+        <activity android:name="com.example.myquiz.Main6Activity" />
+        <activity android:name="com.example.myquiz.Main5Activity" />
+        <activity android:name="com.example.myquiz.Main4Activity" />
+        <activity android:name="com.example.myquiz.Main3Activity" />
+        <activity android:name="com.example.myquiz.Main2Activity" />
+        <activity android:name="com.example.myquiz.MainActivity" />
+        <activity android:name="com.example.myquiz.SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.myquiz.Splash" />
+    </application>
+
+</manifest>
+
+
+
+
+
+
+
+
+
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<manifest xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    xmlns:tools="http://schemas.android.com/tools">-->
+
+<!--    <application-->
+<!--        android:allowBackup="true"-->
+<!--        android:dataExtractionRules="@xml/data_extraction_rules"-->
+<!--        android:fullBackupContent="@xml/backup_rules"-->
+<!--        android:icon="@mipmap/ic_launcher"-->
+<!--        android:label="@string/app_name"-->
+<!--        android:roundIcon="@mipmap/ic_launcher_round"-->
+<!--        android:supportsRtl="true"-->
+<!--        android:theme="@style/Theme.MyQuiz"-->
+<!--        tools:targetApi="31">-->
+<!--        <activity-->
+<!--            android:name=".MainActivity"-->
+<!--            android:exported="true">-->
+<!--            <intent-filter>-->
+<!--                <action android:name="android.intent.action.MAIN" />-->
+
+<!--                <category android:name="android.intent.category.LAUNCHER" />-->
+<!--            </intent-filter>-->
+
+<!--            <meta-data-->
+<!--                android:name="android.app.lib_name"-->
+<!--                android:value="" />-->
+<!--        </activity>-->
+<!--    </application>-->
+
+<!--</manifest>-->
